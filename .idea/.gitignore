@@ -1,8 +1,10 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# IntelliJ IDEA 설정 (이거 한 줄이면 내부 파일 다 막아줍니다)
+.idea/
+*.iml
+out/
+
+# 테마 및 플러그인 (가끔 따로 생성되는 파일들)
+material_theme_project_new.xml
+
+# macOS 시스템 파일
+.DS_Store
